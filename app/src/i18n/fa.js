@@ -5,7 +5,7 @@ export default {
 
   id: "کد ملی",
   name: "نام",
-  family: "فامیلی",
+  family: "نام خانوادگی",
   phoneNumber: "شماره همراه",
   addMorePhone: "افزودن شماره های دیگر",
   hintToAddContacts:

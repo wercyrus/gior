@@ -67,7 +67,7 @@ function TopBar() {
         <Toolbar disableGutters>
           <img
             style={{ background: "Background" }}
-            src="/farvahar.png"
+            src="/gior/app/dist/farvahar.png"
             className="logo"
             alt="Farvahar"
           />
